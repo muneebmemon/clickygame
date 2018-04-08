@@ -1,0 +1,11 @@
+.heading {
+    margin: 0px auto;
+    font-size: 2rem;
+    color: white;
+    letter-spacing: 0.2em;
+    word-spacing: 0.4em;
+}
+
+a {
+    color: white;
+}
