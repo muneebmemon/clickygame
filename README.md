@@ -14,3 +14,9 @@ Clicky Game with React. The object of this game is to click on different image e
 
 ![Start Game](public/images/endgame.png?raw=true")
 
+## Technologies used
+
+* React
+* Javascript
+* HTML
+* Node.js
