@@ -1,4 +1,4 @@
-img {
+.square {
     max-width: 100%;
     border: 1px solid rgb(31, 30, 30);
     border-radius: 5px;
@@ -6,7 +6,8 @@ img {
     box-shadow: 2px 2px grey;
 }
 
-img:hover {
+.square:hover {
     border: 1px solid rgb(3, 156, 11);
     box-shadow: 2px 2px darkorange;
+    opacity: 0.7;
 }

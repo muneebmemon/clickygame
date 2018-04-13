@@ -5,7 +5,7 @@ import './Square.css';
 
 const Square = (props) => {
     return (
-        <img src={props.imgsrc} className='img-responsive img-center' alt='image' />
+        <img src={props.imgsrc} onClick={props.onClick} className='img-responsive img-center square' alt={props.imgsrc} />
     );
 };
 
